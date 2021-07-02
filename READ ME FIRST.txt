@@ -1,0 +1,20 @@
+Follow these instructions carefully.
+
+1) Copy the code as it is to your IDE.
+
+2) Copy the OOP Project Images folder to your desktop.
+
+3) Go to "Edit > Find and replace" in your IDE.
+
+	--> Place this 
+		C:\\Users\\Afraz\\Desktop\\OOP Project Images\\ 
+							in the Find field.
+	
+	--> Edit and Place this 
+		C:\\Users\\YourPcName\\Desktop\\Images\\
+							in the replace field.
+
+	--> Press Replace all.
+
+4) Run AllWindows class as it contains the main method.
+	
